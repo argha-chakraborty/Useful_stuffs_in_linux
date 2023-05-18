@@ -1,5 +1,0 @@
-Plug in the external USB drive in the computer
-
-```bash
-lsblk
-```
