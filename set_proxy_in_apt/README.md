@@ -2,7 +2,7 @@ Open apt.conf file
 ```bash
 sudo nano /etc/apt/apt.conf
 ```
-Now type the following in apt.conf file
+Now write the following in apt.conf file
 ```bash
 Acquire::http::proxy "http://user:password@proxy.serever.name:port/";
 Acquire::https::proxy "https://user:password@proxy.serever.name:port/";
